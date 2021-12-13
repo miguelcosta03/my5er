@@ -12,8 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my5er&langs_count=4&show_icons=true&theme=radical&layout=compact)
 
-
-  with:
-    github_user_name: ${{ github.my5er }}
-    gif_out_path: ![test](https://user-images.githubusercontent.com/66944221/145800862-b5cfd841-9428-4718-ada1-8acf89dcbaf9.gif)
+gif_out_path: ![test](https://user-images.githubusercontent.com/66944221/145800862-b5cfd841-9428-4718-ada1-8acf89dcbaf9.gif)
 
