@@ -7,8 +7,7 @@
 <p>📱- Currently I'm learning Mobile Development using Java, and in my free time I'm learning Web Development and Machine Learniusing Python;</p>
 <p>💻☁️- Finally my goal is to become a Professional Software Developer.👨‍💻☁️</p>
 
-<script type="index.js">
+
 [![MySeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=my5er&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my5er&langs_count=4&show_icons=true&theme=dark&layout=radical)
-</script>
