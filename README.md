@@ -6,3 +6,7 @@
 <p>💻- In my course I learned the basics of Java and a little bit of C# oriented to Desktop Applications;</p>
 <p>📱- Currently I'm learning Mobile Development using Java, and in my free time I'm learning Web Development and Machine Learniusing Python;</p>
 <p>💻☁️- Finally my goal is to become a Professional Software Developer.👨‍💻☁️</p>
+
+
+[![MySeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=mys3r)](https://github.com/my5er/my5er)
+
