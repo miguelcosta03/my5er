@@ -10,4 +10,4 @@
 
 [![MySeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=my5er&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my5er&langs_count=4&show_icons=true&theme=dark&layout=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my5er&langs_count=4&show_icons=true&theme=radical&layout=compact)
