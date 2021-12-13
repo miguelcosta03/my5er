@@ -17,6 +17,7 @@
   with:
     github_user_name: ${{ github.my5er }}
 
-    gif_out_path: dist/github-snake.gif
+    # path of the generated gif file
+    # If left empty, the gif file will not be generated
+    gif_out_path: dist/![test](https://user-images.githubusercontent.com/66944221/145800862-b5cfd841-9428-4718-ada1-8acf89dcbaf9.gif)
 
-    svg_out_path: dist/github-snake.svg
