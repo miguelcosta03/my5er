@@ -8,5 +8,5 @@
 <p>💻☁️- Finally my goal is to become a Professional Software Developer.👨‍💻☁️</p>
 
 
-[![MySeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=my5er)](https://github.com/my5er/my5er)
+[![MySeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=my5er&show_icons=true&theme=merko)]
 
