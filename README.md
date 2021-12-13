@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello ;)
-
 <h1> Here's a little about me: </h1> 
 <p>🏫- My name is Miguel, I'm 18 years old and I'm currently a student in EPVC and I'm in the 3rd year of a professional informatic course;</p>
 <p>🐍- The first programming language that I learned was Python and I'm still looking to improve on that language;</p>
