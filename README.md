@@ -14,5 +14,5 @@
 
 ![test](https://user-images.githubusercontent.com/66944221/145800862-b5cfd841-9428-4718-ada1-8acf89dcbaf9.gif)
 
-pandas_visualizer = Visualizer('my5er', 'github-stats')
+pandas_visualizer = Visualizer('my5er', 'Emmer')
 
